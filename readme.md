@@ -14,7 +14,7 @@
 1. cocos creator
 
         /// 使用 npm 管理包
-        npm install pomelo-creatot --save
+        npm install pomelo-creator --save
 2. cocos2d-js
 
     直接 copy 包内的 js 代码, 贴到工程内, 如有报错按需修改!
